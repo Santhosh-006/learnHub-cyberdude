@@ -7,7 +7,7 @@ This project focuses on simple layout design, beginner-friendly structure, and c
 
 ## 🌐 **Live Demo**
 
-🔗 **Live Link:** _Add your deployed link here_
+🔗 **Live Link:** [Click Here](https://santhosh-006.github.io/learnHub-cyberdude/)
 
 ---
 
